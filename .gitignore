@@ -2,6 +2,10 @@
 *.csv
 *.pdf
 *.txt
+*.mp4
 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
 img/
 data/
